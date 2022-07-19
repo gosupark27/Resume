@@ -1,0 +1,76 @@
+body{
+    margin: 0 5% 0 5%;
+    padding: 0;
+    background-color:black;
+}
+
+.container-color{
+    background-color:#f4f0e8;
+}
+
+.container-mg{
+    margin:20px auto;
+}
+
+.footer-pd{
+    padding-bottom: 25px;
+}
+
+.section-mg{
+    margin: 10px auto;
+}
+
+.section-title{
+    font-size:1.25rem;
+    font-style:bold;
+}
+
+.section-bold{
+    font-size:1rem;
+    font-weight: bold;
+}
+
+.section-italicize{
+    font-style:italic;
+}
+
+.hr-mg{
+   margin-top:0; 
+   width: 100%;
+}
+
+.hr-bold{
+    border-top: 3px double #8c8b8b;
+}
+
+.reset-left-mgpd{
+    padding-left:0;
+    margin-left:15px;
+}
+
+.top-mg{
+    margin-top: 0.15rem;
+}
+.li-mg {
+    margin: 5px auto;
+}
+
+.margin-all {
+    margin: 15 10 15 10 
+}
+
+.padding-left{
+    padding-left: 10px
+}
+
+.text-both-sides{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+}
+
+#resume-name{
+    font-size: 3rem; 
+    font-style: bold;
+    margin: 10px 0;
+}
